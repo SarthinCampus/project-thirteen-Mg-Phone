@@ -1,0 +1,10 @@
+Read a list of items (comma-separated, e.g. a,b,c,a,b)
+Read another line for the target item
+Count how many times the item appears
+
+Print the count
+
+Turn in:
+
+Directory: count_item
+File: main.py
